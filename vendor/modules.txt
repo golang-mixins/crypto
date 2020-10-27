@@ -1,0 +1,11 @@
+# github.com/gtank/cryptopasta v0.0.0-20170601214702-1f550f6f2f69
+## explicit
+github.com/gtank/cryptopasta
+# golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897
+## explicit
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+# golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
+## explicit
+golang.org/x/xerrors
+golang.org/x/xerrors/internal
